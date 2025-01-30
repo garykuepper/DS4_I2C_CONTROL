@@ -7,6 +7,8 @@ http://www.hobbytronics.co.uk/usb-host/ps3-ps4-controller-bluetooth
    
 **SEMU Consulting 2017**, based on the Hobbytronics ps4_hex_tank example.
 
+**GGBYTES**  Edits to allow static functions to decode ps4 data
+
 ## Connections:
    * 5V on board --> 5V on Arduino
    * 0V on board --> GND on Arduino
